@@ -1,0 +1,1321 @@
+﻿Industry,Year,Employment
+Goods-producing sector ,1976,323.8
+Goods-producing sector ,1977,337.8
+Goods-producing sector ,1978,348.1
+Goods-producing sector ,1979,361.3
+Goods-producing sector ,1980,373.7
+Goods-producing sector ,1981,390.2
+Goods-producing sector ,1982,338.5
+Goods-producing sector ,1983,322.2
+Goods-producing sector ,1984,316.9
+Goods-producing sector ,1985,323.4
+Goods-producing sector ,1986,322
+Goods-producing sector ,1987,333.8
+Goods-producing sector ,1988,351.5
+Goods-producing sector ,1989,383.8
+Goods-producing sector ,1990,389
+Goods-producing sector ,1991,377.7
+Goods-producing sector ,1992,371
+Goods-producing sector ,1993,382.8
+Goods-producing sector ,1994,401.5
+Goods-producing sector ,1995,405.1
+Goods-producing sector ,1996,408.8
+Goods-producing sector ,1997,419.1
+Goods-producing sector ,1998,408.8
+Goods-producing sector ,1999,391.9
+Goods-producing sector ,2000,407.2
+Goods-producing sector ,2001,383.8
+Goods-producing sector ,2002,392.8
+Goods-producing sector ,2003,413
+Goods-producing sector ,2004,431.2
+Goods-producing sector ,2005,445.1
+Goods-producing sector ,2006,459.2
+Goods-producing sector ,2007,476.9
+Goods-producing sector ,2008,479.7
+Goods-producing sector ,2009,441.2
+Goods-producing sector ,2010,442.9
+Goods-producing sector ,2011,445.7
+Goods-producing sector ,2012,459.6
+Goods-producing sector ,2013,461.4
+Goods-producing sector ,2014,468.6
+Goods-producing sector ,2015,482.5
+Goods-producing sector ,2016,484.6
+Goods-producing sector ,2017,512
+Goods-producing sector ,2018,516.3
+Goods-producing sector ,2019,507.2
+Goods-producing sector ,2020,484
+Goods-producing sector ,2021,497.9
+Goods-producing sector ,2022,506.9
+Goods-producing sector ,2023,497.7
+Agriculture ,1976,17.6
+Agriculture ,1977,20.7
+Agriculture ,1978,20.9
+Agriculture ,1979,21.3
+Agriculture ,1980,18.9
+Agriculture ,1981,20.5
+Agriculture ,1982,25.9
+Agriculture ,1983,29.7
+Agriculture ,1984,28.1
+Agriculture ,1985,30.9
+Agriculture ,1986,33.3
+Agriculture ,1987,31.7
+Agriculture ,1988,31.1
+Agriculture ,1989,32
+Agriculture ,1990,28.1
+Agriculture ,1991,30.3
+Agriculture ,1992,29.2
+Agriculture ,1993,32.7
+Agriculture ,1994,29.8
+Agriculture ,1995,25.7
+Agriculture ,1996,30.3
+Agriculture ,1997,33
+Agriculture ,1998,32.6
+Agriculture ,1999,28.7
+Agriculture ,2000,29.7
+Agriculture ,2001,25.6
+Agriculture ,2002,29.8
+Agriculture ,2003,33.2
+Agriculture ,2004,36
+Agriculture ,2005,38.3
+Agriculture ,2006,35.2
+Agriculture ,2007,35.4
+Agriculture ,2008,36
+Agriculture ,2009,31.2
+Agriculture ,2010,28.8
+Agriculture ,2011,24.1
+Agriculture ,2012,23.5
+Agriculture ,2013,26.8
+Agriculture ,2014,25.3
+Agriculture ,2015,25.7
+Agriculture ,2016,22.6
+Agriculture ,2017,24.1
+Agriculture ,2018,24.1
+Agriculture ,2019,24.4
+Agriculture ,2020,28.3
+Agriculture ,2021,21.2
+Agriculture ,2022,23.6
+Agriculture ,2023,25.4
+"Forestry, fishing, mining, quarrying, oil and gas",1976,49.2
+"Forestry, fishing, mining, quarrying, oil and gas",1977,46.8
+"Forestry, fishing, mining, quarrying, oil and gas",1978,50
+"Forestry, fishing, mining, quarrying, oil and gas",1979,57.9
+"Forestry, fishing, mining, quarrying, oil and gas",1980,69.8
+"Forestry, fishing, mining, quarrying, oil and gas",1981,69.2
+"Forestry, fishing, mining, quarrying, oil and gas",1982,52.9
+"Forestry, fishing, mining, quarrying, oil and gas",1983,53.4
+"Forestry, fishing, mining, quarrying, oil and gas",1984,56.4
+"Forestry, fishing, mining, quarrying, oil and gas",1985,56
+"Forestry, fishing, mining, quarrying, oil and gas",1986,53.1
+"Forestry, fishing, mining, quarrying, oil and gas",1987,49.5
+"Forestry, fishing, mining, quarrying, oil and gas",1988,50.3
+"Forestry, fishing, mining, quarrying, oil and gas",1989,55
+"Forestry, fishing, mining, quarrying, oil and gas",1990,52.1
+"Forestry, fishing, mining, quarrying, oil and gas",1991,51.4
+"Forestry, fishing, mining, quarrying, oil and gas",1992,47.2
+"Forestry, fishing, mining, quarrying, oil and gas",1993,44.3
+"Forestry, fishing, mining, quarrying, oil and gas",1994,49.5
+"Forestry, fishing, mining, quarrying, oil and gas",1995,54.8
+"Forestry, fishing, mining, quarrying, oil and gas",1996,54.7
+"Forestry, fishing, mining, quarrying, oil and gas",1997,55.2
+"Forestry, fishing, mining, quarrying, oil and gas",1998,51.5
+"Forestry, fishing, mining, quarrying, oil and gas",1999,48.5
+"Forestry, fishing, mining, quarrying, oil and gas",2000,52.6
+"Forestry, fishing, mining, quarrying, oil and gas",2001,41.2
+"Forestry, fishing, mining, quarrying, oil and gas",2002,37.4
+"Forestry, fishing, mining, quarrying, oil and gas",2003,44.5
+"Forestry, fishing, mining, quarrying, oil and gas",2004,35.7
+"Forestry, fishing, mining, quarrying, oil and gas",2005,37.5
+"Forestry, fishing, mining, quarrying, oil and gas",2006,43.6
+"Forestry, fishing, mining, quarrying, oil and gas",2007,46.5
+"Forestry, fishing, mining, quarrying, oil and gas",2008,42.3
+"Forestry, fishing, mining, quarrying, oil and gas",2009,39.4
+"Forestry, fishing, mining, quarrying, oil and gas",2010,41.4
+"Forestry, fishing, mining, quarrying, oil and gas",2011,42.5
+"Forestry, fishing, mining, quarrying, oil and gas",2012,47.2
+"Forestry, fishing, mining, quarrying, oil and gas",2013,49.9
+"Forestry, fishing, mining, quarrying, oil and gas",2014,52.8
+"Forestry, fishing, mining, quarrying, oil and gas",2015,53.4
+"Forestry, fishing, mining, quarrying, oil and gas",2016,51.5
+"Forestry, fishing, mining, quarrying, oil and gas",2017,52.4
+"Forestry, fishing, mining, quarrying, oil and gas",2018,49.4
+"Forestry, fishing, mining, quarrying, oil and gas",2019,46.1
+"Forestry, fishing, mining, quarrying, oil and gas",2020,42.1
+"Forestry, fishing, mining, quarrying, oil and gas",2021,48.4
+"Forestry, fishing, mining, quarrying, oil and gas",2022,48.2
+"Forestry, fishing, mining, quarrying, oil and gas",2023,49.6
+,,
+Forestry and logging and support activities for forestry,1976,..
+Forestry and logging and support activities for forestry,1977,..
+Forestry and logging and support activities for forestry,1978,..
+Forestry and logging and support activities for forestry,1979,..
+Forestry and logging and support activities for forestry,1980,..
+Forestry and logging and support activities for forestry,1981,..
+Forestry and logging and support activities for forestry,1982,..
+Forestry and logging and support activities for forestry,1983,..
+Forestry and logging and support activities for forestry,1984,..
+Forestry and logging and support activities for forestry,1985,..
+Forestry and logging and support activities for forestry,1986,..
+Forestry and logging and support activities for forestry,1987,24
+Forestry and logging and support activities for forestry,1988,25.3
+Forestry and logging and support activities for forestry,1989,26.5
+Forestry and logging and support activities for forestry,1990,26.3
+Forestry and logging and support activities for forestry,1991,26.8
+Forestry and logging and support activities for forestry,1992,26.3
+Forestry and logging and support activities for forestry,1993,26.2
+Forestry and logging and support activities for forestry,1994,31.1
+Forestry and logging and support activities for forestry,1995,36.1
+Forestry and logging and support activities for forestry,1996,32
+Forestry and logging and support activities for forestry,1997,32.9
+Forestry and logging and support activities for forestry,1998,30.2
+Forestry and logging and support activities for forestry,1999,29.9
+Forestry and logging and support activities for forestry,2000,35.5
+Forestry and logging and support activities for forestry,2001,25.1
+Forestry and logging and support activities for forestry,2002,25.1
+Forestry and logging and support activities for forestry,2003,26.9
+Forestry and logging and support activities for forestry,2004,21.5
+Forestry and logging and support activities for forestry,2005,21.6
+Forestry and logging and support activities for forestry,2006,21.4
+Forestry and logging and support activities for forestry,2007,23.8
+Forestry and logging and support activities for forestry,2008,16
+Forestry and logging and support activities for forestry,2009,13.3
+Forestry and logging and support activities for forestry,2010,15.8
+Forestry and logging and support activities for forestry,2011,15.4
+Forestry and logging and support activities for forestry,2012,16.8
+Forestry and logging and support activities for forestry,2013,19.1
+Forestry and logging and support activities for forestry,2014,20.3
+Forestry and logging and support activities for forestry,2015,21.5
+Forestry and logging and support activities for forestry,2016,18.7
+Forestry and logging and support activities for forestry,2017,18.7
+Forestry and logging and support activities for forestry,2018,17.3
+Forestry and logging and support activities for forestry,2019,16.1
+Forestry and logging and support activities for forestry,2020,15.6
+Forestry and logging and support activities for forestry,2021,18.3
+Forestry and logging and support activities for forestry,2022,17.7
+Forestry and logging and support activities for forestry,2023,13.7
+,,
+"Fishing, hunting and trapping",1976,..
+"Fishing, hunting and trapping",1977,..
+"Fishing, hunting and trapping",1978,..
+"Fishing, hunting and trapping",1979,..
+"Fishing, hunting and trapping",1980,..
+"Fishing, hunting and trapping",1981,..
+"Fishing, hunting and trapping",1982,..
+"Fishing, hunting and trapping",1983,..
+"Fishing, hunting and trapping",1984,..
+"Fishing, hunting and trapping",1985,..
+"Fishing, hunting and trapping",1986,..
+"Fishing, hunting and trapping",1987,6.1
+"Fishing, hunting and trapping",1988,6.4
+"Fishing, hunting and trapping",1989,7.1
+"Fishing, hunting and trapping",1990,6.9
+"Fishing, hunting and trapping",1991,6.7
+"Fishing, hunting and trapping",1992,4.9
+"Fishing, hunting and trapping",1993,6.3
+"Fishing, hunting and trapping",1994,6.3
+"Fishing, hunting and trapping",1995,4.5
+"Fishing, hunting and trapping",1996,5.2
+"Fishing, hunting and trapping",1997,5.5
+"Fishing, hunting and trapping",1998,3.4
+"Fishing, hunting and trapping",1999,3.8
+"Fishing, hunting and trapping",2000,4.3
+"Fishing, hunting and trapping",2001,4.7
+"Fishing, hunting and trapping",2002,3.1
+"Fishing, hunting and trapping",2003,4.5
+"Fishing, hunting and trapping",2004,2.9
+"Fishing, hunting and trapping",2005,2.1
+"Fishing, hunting and trapping",2006,2.9
+"Fishing, hunting and trapping",2007,3.1
+"Fishing, hunting and trapping",2008,2.1
+"Fishing, hunting and trapping",2009,2.3
+"Fishing, hunting and trapping",2010,2
+"Fishing, hunting and trapping",2011,1.5
+"Fishing, hunting and trapping",2012,2.1
+"Fishing, hunting and trapping",2013,1.5
+"Fishing, hunting and trapping",2014,2
+"Fishing, hunting and trapping",2015,1.9
+"Fishing, hunting and trapping",2016,1.7
+"Fishing, hunting and trapping",2017,2.3
+"Fishing, hunting and trapping",2018,3.3
+"Fishing, hunting and trapping",2019,1.8
+"Fishing, hunting and trapping",2020,2.7
+"Fishing, hunting and trapping",2021,1.9
+"Fishing, hunting and trapping",2022,1.9
+"Fishing, hunting and trapping",2023,1.5
+,,
+"Mining, quarrying, and oil and gas extraction",1976,..
+"Mining, quarrying, and oil and gas extraction",1977,..
+"Mining, quarrying, and oil and gas extraction",1978,..
+"Mining, quarrying, and oil and gas extraction",1979,..
+"Mining, quarrying, and oil and gas extraction",1980,..
+"Mining, quarrying, and oil and gas extraction",1981,..
+"Mining, quarrying, and oil and gas extraction",1982,..
+"Mining, quarrying, and oil and gas extraction",1983,..
+"Mining, quarrying, and oil and gas extraction",1984,..
+"Mining, quarrying, and oil and gas extraction",1985,..
+"Mining, quarrying, and oil and gas extraction",1986,..
+"Mining, quarrying, and oil and gas extraction",1987,19.4
+"Mining, quarrying, and oil and gas extraction",1988,18.6
+"Mining, quarrying, and oil and gas extraction",1989,21.5
+"Mining, quarrying, and oil and gas extraction",1990,18.9
+"Mining, quarrying, and oil and gas extraction",1991,17.9
+"Mining, quarrying, and oil and gas extraction",1992,15.9
+"Mining, quarrying, and oil and gas extraction",1993,11.8
+"Mining, quarrying, and oil and gas extraction",1994,12.1
+"Mining, quarrying, and oil and gas extraction",1995,14.2
+"Mining, quarrying, and oil and gas extraction",1996,17.5
+"Mining, quarrying, and oil and gas extraction",1997,16.8
+"Mining, quarrying, and oil and gas extraction",1998,17.9
+"Mining, quarrying, and oil and gas extraction",1999,14.8
+"Mining, quarrying, and oil and gas extraction",2000,12.8
+"Mining, quarrying, and oil and gas extraction",2001,11.4
+"Mining, quarrying, and oil and gas extraction",2002,9.2
+"Mining, quarrying, and oil and gas extraction",2003,13.1
+"Mining, quarrying, and oil and gas extraction",2004,11.3
+"Mining, quarrying, and oil and gas extraction",2005,13.8
+"Mining, quarrying, and oil and gas extraction",2006,19.3
+"Mining, quarrying, and oil and gas extraction",2007,19.6
+"Mining, quarrying, and oil and gas extraction",2008,24.3
+"Mining, quarrying, and oil and gas extraction",2009,23.7
+"Mining, quarrying, and oil and gas extraction",2010,23.6
+"Mining, quarrying, and oil and gas extraction",2011,25.6
+"Mining, quarrying, and oil and gas extraction",2012,28.3
+"Mining, quarrying, and oil and gas extraction",2013,29.2
+"Mining, quarrying, and oil and gas extraction",2014,30.4
+"Mining, quarrying, and oil and gas extraction",2015,30
+"Mining, quarrying, and oil and gas extraction",2016,31.1
+"Mining, quarrying, and oil and gas extraction",2017,31.4
+"Mining, quarrying, and oil and gas extraction",2018,28.8
+"Mining, quarrying, and oil and gas extraction",2019,28.3
+"Mining, quarrying, and oil and gas extraction",2020,23.9
+"Mining, quarrying, and oil and gas extraction",2021,28.1
+"Mining, quarrying, and oil and gas extraction",2022,28.7
+"Mining, quarrying, and oil and gas extraction",2023,34.4
+,,
+Utilities,1976,12.7
+Utilities,1977,12.5
+Utilities,1978,11.1
+Utilities,1979,10.2
+Utilities,1980,12.1
+Utilities,1981,13.8
+Utilities,1982,15.9
+Utilities,1983,14.3
+Utilities,1984,11.7
+Utilities,1985,9.7
+Utilities,1986,8.9
+Utilities,1987,9.3
+Utilities,1988,9.5
+Utilities,1989,11
+Utilities,1990,12.5
+Utilities,1991,12.4
+Utilities,1992,11.2
+Utilities,1993,12.2
+Utilities,1994,12.5
+Utilities,1995,10.6
+Utilities,1996,10.3
+Utilities,1997,10
+Utilities,1998,11.3
+Utilities,1999,11.2
+Utilities,2000,10.4
+Utilities,2001,10.6
+Utilities,2002,10.9
+Utilities,2003,11.1
+Utilities,2004,9.1
+Utilities,2005,10.2
+Utilities,2006,6.9
+Utilities,2007,7.8
+Utilities,2008,10.9
+Utilities,2009,10.5
+Utilities,2010,10.9
+Utilities,2011,11.2
+Utilities,2012,12.5
+Utilities,2013,13.3
+Utilities,2014,14
+Utilities,2015,14.3
+Utilities,2016,12.7
+Utilities,2017,11.5
+Utilities,2018,15
+Utilities,2019,13.8
+Utilities,2020,18.4
+Utilities,2021,17.9
+Utilities,2022,15.1
+Utilities,2023,16.1
+,,
+Construction,1976,85.6
+Construction,1977,91.2
+Construction,1978,89.1
+Construction,1979,91.1
+Construction,1980,95
+Construction,1981,110.2
+Construction,1982,91.2
+Construction,1983,83
+Construction,1984,74.8
+Construction,1985,76.3
+Construction,1986,72.5
+Construction,1987,80.4
+Construction,1988,91.6
+Construction,1989,108.4
+Construction,1990,119.7
+Construction,1991,113.2
+Construction,1992,116.3
+Construction,1993,116.1
+Construction,1994,125.7
+Construction,1995,126
+Construction,1996,120
+Construction,1997,124.1
+Construction,1998,118.7
+Construction,1999,113.6
+Construction,2000,112.1
+Construction,2001,112.3
+Construction,2002,116.8
+Construction,2003,117.6
+Construction,2004,142.1
+Construction,2005,165.8
+Construction,2006,183.6
+Construction,2007,197.5
+Construction,2008,211
+Construction,2009,199.4
+Construction,2010,197.4
+Construction,2011,202.5
+Construction,2012,202.7
+Construction,2013,212.6
+Construction,2014,209
+Construction,2015,211.9
+Construction,2016,220
+Construction,2017,239.8
+Construction,2018,246.5
+Construction,2019,250.1
+Construction,2020,227.4
+Construction,2021,227.1
+Construction,2022,236
+Construction,2023,234.7
+,,
+Manufacturing,1976,158.7
+Manufacturing,1977,166.6
+Manufacturing,1978,177
+Manufacturing,1979,180.9
+Manufacturing,1980,177.9
+Manufacturing,1981,176.4
+Manufacturing,1982,152.6
+Manufacturing,1983,141.9
+Manufacturing,1984,145.8
+Manufacturing,1985,150.4
+Manufacturing,1986,154.3
+Manufacturing,1987,162.9
+Manufacturing,1988,169.1
+Manufacturing,1989,177.4
+Manufacturing,1990,176.6
+Manufacturing,1991,170.5
+Manufacturing,1992,167.1
+Manufacturing,1993,177.6
+Manufacturing,1994,184
+Manufacturing,1995,188.1
+Manufacturing,1996,193.5
+Manufacturing,1997,196.8
+Manufacturing,1998,194.6
+Manufacturing,1999,190
+Manufacturing,2000,202.5
+Manufacturing,2001,194.1
+Manufacturing,2002,197.9
+Manufacturing,2003,206.5
+Manufacturing,2004,208.4
+Manufacturing,2005,193.4
+Manufacturing,2006,189.8
+Manufacturing,2007,189.8
+Manufacturing,2008,179.6
+Manufacturing,2009,160.7
+Manufacturing,2010,164.4
+Manufacturing,2011,165.4
+Manufacturing,2012,173.7
+Manufacturing,2013,158.8
+Manufacturing,2014,167.7
+Manufacturing,2015,177.2
+Manufacturing,2016,177.8
+Manufacturing,2017,184.2
+Manufacturing,2018,181.4
+Manufacturing,2019,172.7
+Manufacturing,2020,167.8
+Manufacturing,2021,183.4
+Manufacturing,2022,184.1
+Manufacturing,2023,171.8
+,,
+Durables,1976,..
+Durables,1977,..
+Durables,1978,..
+Durables,1979,..
+Durables,1980,..
+Durables,1981,..
+Durables,1982,..
+Durables,1983,..
+Durables,1984,..
+Durables,1985,..
+Durables,1986,..
+Durables,1987,97.8
+Durables,1988,102.3
+Durables,1989,107.9
+Durables,1990,111.2
+Durables,1991,105.1
+Durables,1992,104.8
+Durables,1993,108
+Durables,1994,107.7
+Durables,1995,110.7
+Durables,1996,112.8
+Durables,1997,120.6
+Durables,1998,116.6
+Durables,1999,115.9
+Durables,2000,122.9
+Durables,2001,119.4
+Durables,2002,124.5
+Durables,2003,129.3
+Durables,2004,129.1
+Durables,2005,122.4
+Durables,2006,123
+Durables,2007,121
+Durables,2008,109.8
+Durables,2009,97.9
+Durables,2010,105.3
+Durables,2011,102
+Durables,2012,105.4
+Durables,2013,95.1
+Durables,2014,99.6
+Durables,2015,103.7
+Durables,2016,106.4
+Durables,2017,106.9
+Durables,2018,105.8
+Durables,2019,107.3
+Durables,2020,98.8
+Durables,2021,104.2
+Durables,2022,107.6
+Durables,2023,100.1
+,,
+Non-durables,1976,..
+Non-durables,1977,..
+Non-durables,1978,..
+Non-durables,1979,..
+Non-durables,1980,..
+Non-durables,1981,..
+Non-durables,1982,..
+Non-durables,1983,..
+Non-durables,1984,..
+Non-durables,1985,..
+Non-durables,1986,..
+Non-durables,1987,65.2
+Non-durables,1988,66.8
+Non-durables,1989,69.5
+Non-durables,1990,65.3
+Non-durables,1991,65.4
+Non-durables,1992,62.3
+Non-durables,1993,69.5
+Non-durables,1994,76.4
+Non-durables,1995,77.4
+Non-durables,1996,80.7
+Non-durables,1997,76.2
+Non-durables,1998,78
+Non-durables,1999,74.1
+Non-durables,2000,79.5
+Non-durables,2001,74.8
+Non-durables,2002,73.3
+Non-durables,2003,77.2
+Non-durables,2004,79.2
+Non-durables,2005,71
+Non-durables,2006,66.7
+Non-durables,2007,68.8
+Non-durables,2008,69.7
+Non-durables,2009,62.8
+Non-durables,2010,59.2
+Non-durables,2011,63.4
+Non-durables,2012,68.3
+Non-durables,2013,63.8
+Non-durables,2014,68
+Non-durables,2015,73.5
+Non-durables,2016,71.3
+Non-durables,2017,77.4
+Non-durables,2018,75.6
+Non-durables,2019,65.4
+Non-durables,2020,68.9
+Non-durables,2021,79.2
+Non-durables,2022,76.5
+Non-durables,2023,71.7
+,,
+Services-producing,1976,737.1
+Services-producing,1977,751.3
+Services-producing,1978,789.4
+Services-producing,1979,827.3
+Services-producing,1980,892.8
+Services-producing,1981,929.4
+Services-producing,1982,914.9
+Services-producing,1983,922.6
+Services-producing,1984,928.1
+Services-producing,1985,956.3
+Services-producing,1986,"1,009.80"
+Services-producing,1987,"1,043.90"
+Services-producing,1988,"1,083.10"
+Services-producing,1989,"1,124.50"
+Services-producing,1990,"1,170.60"
+Services-producing,1991,"1,199.80"
+Services-producing,1992,"1,246.20"
+Services-producing,1993,"1,285.10"
+Services-producing,1994,"1,341.70"
+Services-producing,1995,"1,380.50"
+Services-producing,1996,"1,404.70"
+Services-producing,1997,"1,440.80"
+Services-producing,1998,"1,448.90"
+Services-producing,1999,"1,501.70"
+Services-producing,2000,"1,523.50"
+Services-producing,2001,"1,537.20"
+Services-producing,2002,"1,559.70"
+Services-producing,2003,"1,585.10"
+Services-producing,2004,"1,597.10"
+Services-producing,2005,"1,644.60"
+Services-producing,2006,"1,694.20"
+Services-producing,2007,"1,734.50"
+Services-producing,2008,"1,764.70"
+Services-producing,2009,"1,760.80"
+Services-producing,2010,"1,778.80"
+Services-producing,2011,"1,789.20"
+Services-producing,2012,"1,836.10"
+Services-producing,2013,"1,860.60"
+Services-producing,2014,"1,880.60"
+Services-producing,2015,"1,906.50"
+Services-producing,2016,"1,983.30"
+Services-producing,2017,"2,048.30"
+Services-producing,2018,"2,090.10"
+Services-producing,2019,"2,170.50"
+Services-producing,2020,"2,025.20"
+Services-producing,2021,"2,165.90"
+Services-producing,2022,"2,240.90"
+Services-producing,2023,"2,294.10"
+,,
+Wholesale and retail trade,1976,178.4
+Wholesale and retail trade,1977,179.5
+Wholesale and retail trade,1978,194.2
+Wholesale and retail trade,1979,196.9
+Wholesale and retail trade,1980,211.2
+Wholesale and retail trade,1981,212.7
+Wholesale and retail trade,1982,203.5
+Wholesale and retail trade,1983,200.6
+Wholesale and retail trade,1984,205.6
+Wholesale and retail trade,1985,214.6
+Wholesale and retail trade,1986,225.7
+Wholesale and retail trade,1987,233.9
+Wholesale and retail trade,1988,246.3
+Wholesale and retail trade,1989,250.6
+Wholesale and retail trade,1990,264.7
+Wholesale and retail trade,1991,259.4
+Wholesale and retail trade,1992,261.9
+Wholesale and retail trade,1993,270.8
+Wholesale and retail trade,1994,283.6
+Wholesale and retail trade,1995,294
+Wholesale and retail trade,1996,291.2
+Wholesale and retail trade,1997,299.8
+Wholesale and retail trade,1998,292.3
+Wholesale and retail trade,1999,305.8
+Wholesale and retail trade,2000,303.6
+Wholesale and retail trade,2001,303.3
+Wholesale and retail trade,2002,318.5
+Wholesale and retail trade,2003,325.6
+Wholesale and retail trade,2004,313
+Wholesale and retail trade,2005,329.8
+Wholesale and retail trade,2006,347.9
+Wholesale and retail trade,2007,359.9
+Wholesale and retail trade,2008,355.3
+Wholesale and retail trade,2009,366.5
+Wholesale and retail trade,2010,373.6
+Wholesale and retail trade,2011,351.8
+Wholesale and retail trade,2012,345.2
+Wholesale and retail trade,2013,375.2
+Wholesale and retail trade,2014,370.8
+Wholesale and retail trade,2015,363.3
+Wholesale and retail trade,2016,383.9
+Wholesale and retail trade,2017,395.5
+Wholesale and retail trade,2018,400.7
+Wholesale and retail trade,2019,420.8
+Wholesale and retail trade,2020,388.8
+Wholesale and retail trade,2021,402
+Wholesale and retail trade,2022,434.2
+Wholesale and retail trade,2023,437.1
+,,
+Wholesale trade,1976,..
+Wholesale trade,1977,..
+Wholesale trade,1978,..
+Wholesale trade,1979,..
+Wholesale trade,1980,..
+Wholesale trade,1981,..
+Wholesale trade,1982,..
+Wholesale trade,1983,..
+Wholesale trade,1984,..
+Wholesale trade,1985,..
+Wholesale trade,1986,..
+Wholesale trade,1987,53.5
+Wholesale trade,1988,51.4
+Wholesale trade,1989,53.9
+Wholesale trade,1990,52.9
+Wholesale trade,1991,54.4
+Wholesale trade,1992,58.3
+Wholesale trade,1993,62.8
+Wholesale trade,1994,62.7
+Wholesale trade,1995,64.7
+Wholesale trade,1996,67
+Wholesale trade,1997,71.3
+Wholesale trade,1998,61.8
+Wholesale trade,1999,79.2
+Wholesale trade,2000,67.2
+Wholesale trade,2001,67.3
+Wholesale trade,2002,72.2
+Wholesale trade,2003,76.3
+Wholesale trade,2004,65.5
+Wholesale trade,2005,78.5
+Wholesale trade,2006,82.6
+Wholesale trade,2007,80.2
+Wholesale trade,2008,87.3
+Wholesale trade,2009,86.6
+Wholesale trade,2010,83.3
+Wholesale trade,2011,76.7
+Wholesale trade,2012,81.1
+Wholesale trade,2013,83.2
+Wholesale trade,2014,83.1
+Wholesale trade,2015,86
+Wholesale trade,2016,94.7
+Wholesale trade,2017,87.6
+Wholesale trade,2018,87.6
+Wholesale trade,2019,93.8
+Wholesale trade,2020,91.2
+Wholesale trade,2021,88.2
+Wholesale trade,2022,94.1
+Wholesale trade,2023,92.5
+,,
+Retail trade,1976,..
+Retail trade,1977,..
+Retail trade,1978,..
+Retail trade,1979,..
+Retail trade,1980,..
+Retail trade,1981,..
+Retail trade,1982,..
+Retail trade,1983,..
+Retail trade,1984,..
+Retail trade,1985,..
+Retail trade,1986,..
+Retail trade,1987,180.5
+Retail trade,1988,194.9
+Retail trade,1989,196.7
+Retail trade,1990,211.8
+Retail trade,1991,205
+Retail trade,1992,203.6
+Retail trade,1993,208
+Retail trade,1994,220.9
+Retail trade,1995,229.3
+Retail trade,1996,224.1
+Retail trade,1997,228.5
+Retail trade,1998,230.6
+Retail trade,1999,226.6
+Retail trade,2000,236.4
+Retail trade,2001,236
+Retail trade,2002,246.3
+Retail trade,2003,249.3
+Retail trade,2004,247.5
+Retail trade,2005,251.3
+Retail trade,2006,265.3
+Retail trade,2007,279.6
+Retail trade,2008,268
+Retail trade,2009,279.9
+Retail trade,2010,290.3
+Retail trade,2011,275.1
+Retail trade,2012,264.1
+Retail trade,2013,291.9
+Retail trade,2014,287.7
+Retail trade,2015,277.2
+Retail trade,2016,289.2
+Retail trade,2017,307.9
+Retail trade,2018,313.1
+Retail trade,2019,327
+Retail trade,2020,297.6
+Retail trade,2021,313.8
+Retail trade,2022,340.2
+Retail trade,2023,344.6
+,,
+Transportation and warehousing,1976,78.4
+Transportation and warehousing,1977,75.8
+Transportation and warehousing,1978,76
+Transportation and warehousing,1979,88.9
+Transportation and warehousing,1980,89.2
+Transportation and warehousing,1981,94.1
+Transportation and warehousing,1982,90.7
+Transportation and warehousing,1983,91.4
+Transportation and warehousing,1984,86.4
+Transportation and warehousing,1985,87.1
+Transportation and warehousing,1986,90.3
+Transportation and warehousing,1987,85.4
+Transportation and warehousing,1988,88.5
+Transportation and warehousing,1989,90.7
+Transportation and warehousing,1990,91.9
+Transportation and warehousing,1991,97.3
+Transportation and warehousing,1992,101.8
+Transportation and warehousing,1993,100.2
+Transportation and warehousing,1994,98.5
+Transportation and warehousing,1995,97.1
+Transportation and warehousing,1996,100
+Transportation and warehousing,1997,107.7
+Transportation and warehousing,1998,104.5
+Transportation and warehousing,1999,116.7
+Transportation and warehousing,2000,118.1
+Transportation and warehousing,2001,112.7
+Transportation and warehousing,2002,110.3
+Transportation and warehousing,2003,114.5
+Transportation and warehousing,2004,112.6
+Transportation and warehousing,2005,116.3
+Transportation and warehousing,2006,116.4
+Transportation and warehousing,2007,125.4
+Transportation and warehousing,2008,129.6
+Transportation and warehousing,2009,114.7
+Transportation and warehousing,2010,113.1
+Transportation and warehousing,2011,120.4
+Transportation and warehousing,2012,128.6
+Transportation and warehousing,2013,127.5
+Transportation and warehousing,2014,141.2
+Transportation and warehousing,2015,144
+Transportation and warehousing,2016,141.3
+Transportation and warehousing,2017,141.1
+Transportation and warehousing,2018,144.1
+Transportation and warehousing,2019,147.1
+Transportation and warehousing,2020,135
+Transportation and warehousing,2021,146.1
+Transportation and warehousing,2022,142.6
+Transportation and warehousing,2023,141.7
+,,
+"Finance, insurance, real estate, rental and leasing",1976,66.1
+"Finance, insurance, real estate, rental and leasing",1977,68.2
+"Finance, insurance, real estate, rental and leasing",1978,73.8
+"Finance, insurance, real estate, rental and leasing",1979,76.6
+"Finance, insurance, real estate, rental and leasing",1980,83.4
+"Finance, insurance, real estate, rental and leasing",1981,83.7
+"Finance, insurance, real estate, rental and leasing",1982,85.7
+"Finance, insurance, real estate, rental and leasing",1983,86.1
+"Finance, insurance, real estate, rental and leasing",1984,86.3
+"Finance, insurance, real estate, rental and leasing",1985,85
+"Finance, insurance, real estate, rental and leasing",1986,87.9
+"Finance, insurance, real estate, rental and leasing",1987,90.5
+"Finance, insurance, real estate, rental and leasing",1988,96.3
+"Finance, insurance, real estate, rental and leasing",1989,98.7
+"Finance, insurance, real estate, rental and leasing",1990,102.1
+"Finance, insurance, real estate, rental and leasing",1991,103.6
+"Finance, insurance, real estate, rental and leasing",1992,110.9
+"Finance, insurance, real estate, rental and leasing",1993,114.6
+"Finance, insurance, real estate, rental and leasing",1994,117.1
+"Finance, insurance, real estate, rental and leasing",1995,116.7
+"Finance, insurance, real estate, rental and leasing",1996,122.4
+"Finance, insurance, real estate, rental and leasing",1997,125.8
+"Finance, insurance, real estate, rental and leasing",1998,122
+"Finance, insurance, real estate, rental and leasing",1999,120.1
+"Finance, insurance, real estate, rental and leasing",2000,117
+"Finance, insurance, real estate, rental and leasing",2001,120.2
+"Finance, insurance, real estate, rental and leasing",2002,123.8
+"Finance, insurance, real estate, rental and leasing",2003,125.9
+"Finance, insurance, real estate, rental and leasing",2004,127.9
+"Finance, insurance, real estate, rental and leasing",2005,131.2
+"Finance, insurance, real estate, rental and leasing",2006,134.3
+"Finance, insurance, real estate, rental and leasing",2007,138.9
+"Finance, insurance, real estate, rental and leasing",2008,143.2
+"Finance, insurance, real estate, rental and leasing",2009,134.7
+"Finance, insurance, real estate, rental and leasing",2010,136.5
+"Finance, insurance, real estate, rental and leasing",2011,137.2
+"Finance, insurance, real estate, rental and leasing",2012,143.4
+"Finance, insurance, real estate, rental and leasing",2013,148.7
+"Finance, insurance, real estate, rental and leasing",2014,150.2
+"Finance, insurance, real estate, rental and leasing",2015,141
+"Finance, insurance, real estate, rental and leasing",2016,150.6
+"Finance, insurance, real estate, rental and leasing",2017,167
+"Finance, insurance, real estate, rental and leasing",2018,166.1
+"Finance, insurance, real estate, rental and leasing",2019,168.3
+"Finance, insurance, real estate, rental and leasing",2020,170.1
+"Finance, insurance, real estate, rental and leasing",2021,168.9
+"Finance, insurance, real estate, rental and leasing",2022,161.9
+"Finance, insurance, real estate, rental and leasing",2023,173.5
+,,
+Finance and insurance,1976,..
+Finance and insurance,1977,..
+Finance and insurance,1978,..
+Finance and insurance,1979,..
+Finance and insurance,1980,..
+Finance and insurance,1981,..
+Finance and insurance,1982,..
+Finance and insurance,1983,..
+Finance and insurance,1984,..
+Finance and insurance,1985,..
+Finance and insurance,1986,..
+Finance and insurance,1987,58.1
+Finance and insurance,1988,62.3
+Finance and insurance,1989,63.5
+Finance and insurance,1990,63.7
+Finance and insurance,1991,69.4
+Finance and insurance,1992,65.9
+Finance and insurance,1993,68.6
+Finance and insurance,1994,72.9
+Finance and insurance,1995,70
+Finance and insurance,1996,74.3
+Finance and insurance,1997,82.5
+Finance and insurance,1998,75.8
+Finance and insurance,1999,77.2
+Finance and insurance,2000,78.9
+Finance and insurance,2001,80.3
+Finance and insurance,2002,80.5
+Finance and insurance,2003,80.8
+Finance and insurance,2004,81.8
+Finance and insurance,2005,84.4
+Finance and insurance,2006,85.3
+Finance and insurance,2007,92.5
+Finance and insurance,2008,92.2
+Finance and insurance,2009,85.2
+Finance and insurance,2010,91.8
+Finance and insurance,2011,83.3
+Finance and insurance,2012,92.5
+Finance and insurance,2013,94.6
+Finance and insurance,2014,97.4
+Finance and insurance,2015,95.1
+Finance and insurance,2016,100.9
+Finance and insurance,2017,108
+Finance and insurance,2018,104.2
+Finance and insurance,2019,104.8
+Finance and insurance,2020,112
+Finance and insurance,2021,114
+Finance and insurance,2022,104.8
+Finance and insurance,2023,113
+,,
+Real estate and rental and leasing,1976,..
+Real estate and rental and leasing,1977,..
+Real estate and rental and leasing,1978,..
+Real estate and rental and leasing,1979,..
+Real estate and rental and leasing,1980,..
+Real estate and rental and leasing,1981,..
+Real estate and rental and leasing,1982,..
+Real estate and rental and leasing,1983,..
+Real estate and rental and leasing,1984,..
+Real estate and rental and leasing,1985,..
+Real estate and rental and leasing,1986,..
+Real estate and rental and leasing,1987,32.4
+Real estate and rental and leasing,1988,34
+Real estate and rental and leasing,1989,35.2
+Real estate and rental and leasing,1990,38.4
+Real estate and rental and leasing,1991,34.2
+Real estate and rental and leasing,1992,45
+Real estate and rental and leasing,1993,46
+Real estate and rental and leasing,1994,44.3
+Real estate and rental and leasing,1995,46.7
+Real estate and rental and leasing,1996,48
+Real estate and rental and leasing,1997,43.3
+Real estate and rental and leasing,1998,46.2
+Real estate and rental and leasing,1999,42.9
+Real estate and rental and leasing,2000,38.1
+Real estate and rental and leasing,2001,39.8
+Real estate and rental and leasing,2002,43.2
+Real estate and rental and leasing,2003,45.1
+Real estate and rental and leasing,2004,46.1
+Real estate and rental and leasing,2005,46.8
+Real estate and rental and leasing,2006,49
+Real estate and rental and leasing,2007,46.3
+Real estate and rental and leasing,2008,51
+Real estate and rental and leasing,2009,49.5
+Real estate and rental and leasing,2010,44.8
+Real estate and rental and leasing,2011,53.9
+Real estate and rental and leasing,2012,50.9
+Real estate and rental and leasing,2013,54.1
+Real estate and rental and leasing,2014,52.8
+Real estate and rental and leasing,2015,45.9
+Real estate and rental and leasing,2016,49.7
+Real estate and rental and leasing,2017,59
+Real estate and rental and leasing,2018,61.8
+Real estate and rental and leasing,2019,63.5
+Real estate and rental and leasing,2020,58.1
+Real estate and rental and leasing,2021,54.9
+Real estate and rental and leasing,2022,57.1
+Real estate and rental and leasing,2023,60.5
+,,
+"Professional, scientific and technical services",1976,31.2
+"Professional, scientific and technical services",1977,35
+"Professional, scientific and technical services",1978,34.8
+"Professional, scientific and technical services",1979,41.2
+"Professional, scientific and technical services",1980,48.5
+"Professional, scientific and technical services",1981,57.8
+"Professional, scientific and technical services",1982,54.5
+"Professional, scientific and technical services",1983,54.7
+"Professional, scientific and technical services",1984,50.4
+"Professional, scientific and technical services",1985,58.5
+"Professional, scientific and technical services",1986,61.2
+"Professional, scientific and technical services",1987,67
+"Professional, scientific and technical services",1988,77.7
+"Professional, scientific and technical services",1989,82.4
+"Professional, scientific and technical services",1990,87.6
+"Professional, scientific and technical services",1991,93.9
+"Professional, scientific and technical services",1992,86.7
+"Professional, scientific and technical services",1993,96.6
+"Professional, scientific and technical services",1994,101.3
+"Professional, scientific and technical services",1995,104.1
+"Professional, scientific and technical services",1996,107.3
+"Professional, scientific and technical services",1997,113.2
+"Professional, scientific and technical services",1998,123.8
+"Professional, scientific and technical services",1999,137
+"Professional, scientific and technical services",2000,136.3
+"Professional, scientific and technical services",2001,139.2
+"Professional, scientific and technical services",2002,134
+"Professional, scientific and technical services",2003,136
+"Professional, scientific and technical services",2004,143.1
+"Professional, scientific and technical services",2005,159.1
+"Professional, scientific and technical services",2006,162.7
+"Professional, scientific and technical services",2007,162.1
+"Professional, scientific and technical services",2008,168
+"Professional, scientific and technical services",2009,165
+"Professional, scientific and technical services",2010,167.8
+"Professional, scientific and technical services",2011,179.4
+"Professional, scientific and technical services",2012,176.7
+"Professional, scientific and technical services",2013,183.3
+"Professional, scientific and technical services",2014,185.3
+"Professional, scientific and technical services",2015,196.1
+"Professional, scientific and technical services",2016,202.3
+"Professional, scientific and technical services",2017,205.8
+"Professional, scientific and technical services",2018,218.5
+"Professional, scientific and technical services",2019,238.5
+"Professional, scientific and technical services",2020,240
+"Professional, scientific and technical services",2021,261.4
+"Professional, scientific and technical services",2022,274.9
+"Professional, scientific and technical services",2023,278.8
+,,
+"Business, building and other support services ",1976,16.9
+"Business, building and other support services ",1977,17.6
+"Business, building and other support services ",1978,21
+"Business, building and other support services ",1979,20.2
+"Business, building and other support services ",1980,22.7
+"Business, building and other support services ",1981,22.9
+"Business, building and other support services ",1982,25.9
+"Business, building and other support services ",1983,26.6
+"Business, building and other support services ",1984,29.1
+"Business, building and other support services ",1985,32.5
+"Business, building and other support services ",1986,33.8
+"Business, building and other support services ",1987,35.1
+"Business, building and other support services ",1988,36.4
+"Business, building and other support services ",1989,35.4
+"Business, building and other support services ",1990,37.1
+"Business, building and other support services ",1991,38.8
+"Business, building and other support services ",1992,41
+"Business, building and other support services ",1993,46
+"Business, building and other support services ",1994,52.6
+"Business, building and other support services ",1995,55.8
+"Business, building and other support services ",1996,60
+"Business, building and other support services ",1997,62
+"Business, building and other support services ",1998,65.2
+"Business, building and other support services ",1999,64.8
+"Business, building and other support services ",2000,69.7
+"Business, building and other support services ",2001,70.5
+"Business, building and other support services ",2002,71.8
+"Business, building and other support services ",2003,78.9
+"Business, building and other support services ",2004,79.6
+"Business, building and other support services ",2005,89.5
+"Business, building and other support services ",2006,95.9
+"Business, building and other support services ",2007,96.8
+"Business, building and other support services ",2008,102.8
+"Business, building and other support services ",2009,95.8
+"Business, building and other support services ",2010,90.7
+"Business, building and other support services ",2011,95.7
+"Business, building and other support services ",2012,98.6
+"Business, building and other support services ",2013,94.2
+"Business, building and other support services ",2014,87.2
+"Business, building and other support services ",2015,92.1
+"Business, building and other support services ",2016,99.8
+"Business, building and other support services ",2017,104.1
+"Business, building and other support services ",2018,103.3
+"Business, building and other support services ",2019,115.3
+"Business, building and other support services ",2020,96.9
+"Business, building and other support services ",2021,98.6
+"Business, building and other support services ",2022,89.3
+"Business, building and other support services ",2023,88.3
+,,
+Educational services,1976,73.8
+Educational services,1977,71.8
+Educational services,1978,73.3
+Educational services,1979,72.2
+Educational services,1980,73.6
+Educational services,1981,74.2
+Educational services,1982,72.3
+Educational services,1983,76.2
+Educational services,1984,77.5
+Educational services,1985,80.3
+Educational services,1986,86.3
+Educational services,1987,84
+Educational services,1988,86.6
+Educational services,1989,88.2
+Educational services,1990,89
+Educational services,1991,98.3
+Educational services,1992,107.4
+Educational services,1993,113.8
+Educational services,1994,121.8
+Educational services,1995,124.1
+Educational services,1996,118.2
+Educational services,1997,119.9
+Educational services,1998,117.3
+Educational services,1999,125.1
+Educational services,2000,135.7
+Educational services,2001,137.3
+Educational services,2002,136.7
+Educational services,2003,136.8
+Educational services,2004,132.4
+Educational services,2005,143.2
+Educational services,2006,151.9
+Educational services,2007,151.6
+Educational services,2008,148
+Educational services,2009,153.3
+Educational services,2010,156.6
+Educational services,2011,156.9
+Educational services,2012,167.4
+Educational services,2013,165.4
+Educational services,2014,167.3
+Educational services,2015,170.3
+Educational services,2016,172.3
+Educational services,2017,172.4
+Educational services,2018,168.7
+Educational services,2019,177.1
+Educational services,2020,173.2
+Educational services,2021,185.7
+Educational services,2022,201.4
+Educational services,2023,218
+,,
+Health care and social assistance,1976,79.8
+Health care and social assistance,1977,87.9
+Health care and social assistance,1978,95.6
+Health care and social assistance,1979,98.8
+Health care and social assistance,1980,102.3
+Health care and social assistance,1981,104.7
+Health care and social assistance,1982,107.3
+Health care and social assistance,1983,114.1
+Health care and social assistance,1984,115.9
+Health care and social assistance,1985,119
+Health care and social assistance,1986,120.1
+Health care and social assistance,1987,124.7
+Health care and social assistance,1988,128.6
+Health care and social assistance,1989,138.1
+Health care and social assistance,1990,148.8
+Health care and social assistance,1991,155.7
+Health care and social assistance,1992,164.1
+Health care and social assistance,1993,165.4
+Health care and social assistance,1994,172.9
+Health care and social assistance,1995,179
+Health care and social assistance,1996,185.3
+Health care and social assistance,1997,191.8
+Health care and social assistance,1998,196.8
+Health care and social assistance,1999,194.3
+Health care and social assistance,2000,200.8
+Health care and social assistance,2001,197.2
+Health care and social assistance,2002,211.2
+Health care and social assistance,2003,214.3
+Health care and social assistance,2004,216.7
+Health care and social assistance,2005,212.8
+Health care and social assistance,2006,226.2
+Health care and social assistance,2007,234.4
+Health care and social assistance,2008,239
+Health care and social assistance,2009,253.6
+Health care and social assistance,2010,261.7
+Health care and social assistance,2011,254.7
+Health care and social assistance,2012,264.1
+Health care and social assistance,2013,261.4
+Health care and social assistance,2014,268.5
+Health care and social assistance,2015,286.2
+Health care and social assistance,2016,297.8
+Health care and social assistance,2017,310
+Health care and social assistance,2018,327.7
+Health care and social assistance,2019,328.1
+Health care and social assistance,2020,321.5
+Health care and social assistance,2021,351.7
+Health care and social assistance,2022,368.9
+Health care and social assistance,2023,372.8
+,,
+"Information, culture and recreation",1976,45.9
+"Information, culture and recreation",1977,39.7
+"Information, culture and recreation",1978,39.9
+"Information, culture and recreation",1979,42.7
+"Information, culture and recreation",1980,49.3
+"Information, culture and recreation",1981,53.1
+"Information, culture and recreation",1982,55.3
+"Information, culture and recreation",1983,53.8
+"Information, culture and recreation",1984,52.3
+"Information, culture and recreation",1985,52.9
+"Information, culture and recreation",1986,62.7
+"Information, culture and recreation",1987,67
+"Information, culture and recreation",1988,64.1
+"Information, culture and recreation",1989,68.4
+"Information, culture and recreation",1990,68.7
+"Information, culture and recreation",1991,67.9
+"Information, culture and recreation",1992,65.4
+"Information, culture and recreation",1993,66.9
+"Information, culture and recreation",1994,77.8
+"Information, culture and recreation",1995,84.3
+"Information, culture and recreation",1996,83.2
+"Information, culture and recreation",1997,88.5
+"Information, culture and recreation",1998,94.4
+"Information, culture and recreation",1999,90.8
+"Information, culture and recreation",2000,97
+"Information, culture and recreation",2001,103.7
+"Information, culture and recreation",2002,105
+"Information, culture and recreation",2003,105.3
+"Information, culture and recreation",2004,109.8
+"Information, culture and recreation",2005,109.2
+"Information, culture and recreation",2006,113.9
+"Information, culture and recreation",2007,112.1
+"Information, culture and recreation",2008,113.4
+"Information, culture and recreation",2009,107.1
+"Information, culture and recreation",2010,107.5
+"Information, culture and recreation",2011,107.9
+"Information, culture and recreation",2012,111.7
+"Information, culture and recreation",2013,110.8
+"Information, culture and recreation",2014,114.3
+"Information, culture and recreation",2015,122.7
+"Information, culture and recreation",2016,130.1
+"Information, culture and recreation",2017,137.2
+"Information, culture and recreation",2018,129.9
+"Information, culture and recreation",2019,132.2
+"Information, culture and recreation",2020,106.4
+"Information, culture and recreation",2021,127.6
+"Information, culture and recreation",2022,145.2
+"Information, culture and recreation",2023,136.8
+,,
+Accommodation and food services,1976,60.7
+Accommodation and food services,1977,62.1
+Accommodation and food services,1978,64.1
+Accommodation and food services,1979,71.7
+Accommodation and food services,1980,82.5
+Accommodation and food services,1981,84.4
+Accommodation and food services,1982,83.1
+Accommodation and food services,1983,82.1
+Accommodation and food services,1984,89
+Accommodation and food services,1985,89.6
+Accommodation and food services,1986,94.2
+Accommodation and food services,1987,99.7
+Accommodation and food services,1988,104.6
+Accommodation and food services,1989,113.4
+Accommodation and food services,1990,115.2
+Accommodation and food services,1991,119.1
+Accommodation and food services,1992,128.1
+Accommodation and food services,1993,117.5
+Accommodation and food services,1994,126.8
+Accommodation and food services,1995,134.4
+Accommodation and food services,1996,140
+Accommodation and food services,1997,142.4
+Accommodation and food services,1998,147
+Accommodation and food services,1999,150
+Accommodation and food services,2000,155.6
+Accommodation and food services,2001,164
+Accommodation and food services,2002,163
+Accommodation and food services,2003,159.1
+Accommodation and food services,2004,170
+Accommodation and food services,2005,171.7
+Accommodation and food services,2006,169.1
+Accommodation and food services,2007,177.2
+Accommodation and food services,2008,174
+Accommodation and food services,2009,168.9
+Accommodation and food services,2010,167.3
+Accommodation and food services,2011,180
+Accommodation and food services,2012,187.4
+Accommodation and food services,2013,183.6
+Accommodation and food services,2014,186.1
+Accommodation and food services,2015,176.8
+Accommodation and food services,2016,185.1
+Accommodation and food services,2017,195.1
+Accommodation and food services,2018,200.5
+Accommodation and food services,2019,202.1
+Accommodation and food services,2020,173.4
+Accommodation and food services,2021,177.4
+Accommodation and food services,2022,184.3
+Accommodation and food services,2023,193.5
+,,
+Other services (except public administration),1976,41.5
+Other services (except public administration),1977,42.9
+Other services (except public administration),1978,46.2
+Other services (except public administration),1979,50.2
+Other services (except public administration),1980,55.6
+Other services (except public administration),1981,60.1
+Other services (except public administration),1982,56.1
+Other services (except public administration),1983,61.7
+Other services (except public administration),1984,60.6
+Other services (except public administration),1985,63.1
+Other services (except public administration),1986,68.7
+Other services (except public administration),1987,75.3
+Other services (except public administration),1988,74.1
+Other services (except public administration),1989,76.7
+Other services (except public administration),1990,75.6
+Other services (except public administration),1991,74.7
+Other services (except public administration),1992,80.6
+Other services (except public administration),1993,93.5
+Other services (except public administration),1994,91.5
+Other services (except public administration),1995,89
+Other services (except public administration),1996,90.7
+Other services (except public administration),1997,90.5
+Other services (except public administration),1998,92.3
+Other services (except public administration),1999,105.6
+Other services (except public administration),2000,98.3
+Other services (except public administration),2001,98.6
+Other services (except public administration),2002,96
+Other services (except public administration),2003,93.9
+Other services (except public administration),2004,92.7
+Other services (except public administration),2005,88.4
+Other services (except public administration),2006,87.5
+Other services (except public administration),2007,86
+Other services (except public administration),2008,94.6
+Other services (except public administration),2009,96.2
+Other services (except public administration),2010,98.6
+Other services (except public administration),2011,98
+Other services (except public administration),2012,110.3
+Other services (except public administration),2013,104
+Other services (except public administration),2014,101.4
+Other services (except public administration),2015,106.9
+Other services (except public administration),2016,108.2
+Other services (except public administration),2017,114.6
+Other services (except public administration),2018,121.7
+Other services (except public administration),2019,119.2
+Other services (except public administration),2020,99
+Other services (except public administration),2021,108.9
+Other services (except public administration),2022,101.4
+Other services (except public administration),2023,110.3
+,,
+Public administration,1976,64.5
+Public administration,1977,70.9
+Public administration,1978,70.6
+Public administration,1979,67.9
+Public administration,1980,74.4
+Public administration,1981,81.8
+Public administration,1982,80.6
+Public administration,1983,75.4
+Public administration,1984,75
+Public administration,1985,73.7
+Public administration,1986,79
+Public administration,1987,81.3
+Public administration,1988,79.9
+Public administration,1989,81.9
+Public administration,1990,89.9
+Public administration,1991,91.1
+Public administration,1992,98.4
+Public administration,1993,99.8
+Public administration,1994,97.7
+Public administration,1995,102.1
+Public administration,1996,106.4
+Public administration,1997,99.1
+Public administration,1998,93.2
+Public administration,1999,91.7
+Public administration,2000,91.5
+Public administration,2001,90.3
+Public administration,2002,89.5
+Public administration,2003,94.6
+Public administration,2004,99.1
+Public administration,2005,93.2
+Public administration,2006,88.3
+Public administration,2007,90.1
+Public administration,2008,96.7
+Public administration,2009,105.2
+Public administration,2010,105.3
+Public administration,2011,107.1
+Public administration,2012,102.7
+Public administration,2013,106.6
+Public administration,2014,108.5
+Public administration,2015,107.2
+Public administration,2016,111.9
+Public administration,2017,105.4
+Public administration,2018,109
+Public administration,2019,121.7
+Public administration,2020,121
+Public administration,2021,137.6
+Public administration,2022,136.8
+Public administration,2023,143.3
