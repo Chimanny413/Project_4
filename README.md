@@ -1,14 +1,14 @@
 # Project_4: Predictive Analysis of Cost-of-Living, Employment Outlooks, and Migration Trends
 
-# Introduction
+## Introduction
 
 This project focuses on leveraging machine learning to analyze diverse sectors across Canada for predicting cost-of-living trends, employment outlooks, and migration patterns. It aims provide actionable insights that can drive informed decision-making and strategic planning initiatives.
 
-# Goals:
+## Goals:
 
-Cost-of-Living Trends Prediction
-Employment Outlooks Forecasting
-Migration Patterns Analysis
+1. Cost-of-Living Trends Prediction
+2. Employment Outlooks Forecasting
+3. Migration Patterns Analysis
 
 
 ## Members of This Group
