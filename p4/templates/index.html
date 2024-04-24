@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canada Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+  <style>
+    img {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+    <img src="{{ url_for('static', filename='png/cpi.png') }}" alt="cpi">
+    <img src="{{ url_for('static', filename='png/pop.png') }}" alt="pop">
+    <img src="{{ url_for('static', filename='png/growth.png') }}" alt="growth">
+    <div class="image-container">
+      <span class="image-label"><h1>disel</h1> </span>
+      <img src="{{ url_for('static', filename='png/disel.png') }}" alt="disel">
+    </div>
+    <div class="image-container">
+      <span class="image-label"><h1>regular gas</h1></span> 
+      <img src="{{ url_for('static', filename='png/gas.png') }}" alt="gas">
+    </div>
+    <div class="image-container">
+      <span class="image-label"><h1>premium gas</h1> </span>
+      <img src="{{ url_for('static', filename='png/pregas.png') }}" alt="disel">
+    </div>
+    <div class="image-container">
+      <span class="image-label"><h1>heat</h1></span>
+      <img src="{{ url_for('static', filename='png/heat.png') }}" alt="gas">
+    </div>
+</body>
+</html>
