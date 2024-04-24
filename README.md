@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on leveraging machine learning to analyze diverse sectors across Canada for predicting cost-of-living trends, employment outlooks, and migration patterns. It aims provide actionable insights that can drive informed decision-making and strategic planning initiatives.
+This project focuses on leveraging machine learning to analyze diverse sectors across Canada for predicting cost-of-living trends, employment outlooks, and migration patterns. It aims to provide actionable insights that can drive informed decision-making and strategic planning initiatives.
 
 ## Goals:
 
