@@ -1,0 +1,281 @@
+Year,Quarter,Predicted Population,Province
+2024,1,4391990,Alberta
+2024,2,4403933,Alberta
+2024,3,4415876,Alberta
+2025,4,4478454,Alberta
+2025,1,4442624,Alberta
+2025,2,4454567,Alberta
+2025,3,4466510,Alberta
+2026,4,4529088,Alberta
+2026,1,4493258,Alberta
+2026,2,4505201,Alberta
+2026,3,4517144,Alberta
+2027,4,4579722,Alberta
+2027,1,4543892,Alberta
+2027,2,4555835,Alberta
+2027,3,4567778,Alberta
+2028,4,4630356,Alberta
+2028,1,4594526,Alberta
+2028,2,4606469,Alberta
+2028,3,4618412,Alberta
+2029,4,4680990,Alberta
+2024,1,5339377,British Columbia
+2024,2,5351515,British Columbia
+2024,3,5363653,British Columbia
+2025,4,5434834,British Columbia
+2025,1,5398419,British Columbia
+2025,2,5410557,British Columbia
+2025,3,5422696,British Columbia
+2026,4,5493876,British Columbia
+2026,1,5457461,British Columbia
+2026,2,5469600,British Columbia
+2026,3,5481738,British Columbia
+2027,4,5552919,British Columbia
+2027,1,5516503,British Columbia
+2027,2,5528642,British Columbia
+2027,3,5540780,British Columbia
+2028,4,5611961,British Columbia
+2028,1,5575546,British Columbia
+2028,2,5587684,British Columbia
+2028,3,5599823,British Columbia
+2029,4,5671003,British Columbia
+2024,1,38759662,Canada
+2024,2,38845739,Canada
+2024,3,38931817,Canada
+2025,4,39348297,Canada
+2025,1,39090065,Canada
+2025,2,39176142,Canada
+2025,3,39262220,Canada
+2026,4,39678700,Canada
+2026,1,39420468,Canada
+2026,2,39506545,Canada
+2026,3,39592623,Canada
+2027,4,40009103,Canada
+2027,1,39750871,Canada
+2027,2,39836948,Canada
+2027,3,39923026,Canada
+2028,4,40339506,Canada
+2028,1,40081274,Canada
+2028,2,40167351,Canada
+2028,3,40253429,Canada
+2029,4,40669909,Canada
+2024,1,1354526,Manitoba
+2024,2,1356203,Manitoba
+2024,3,1357879,Manitoba
+2025,4,1366793,Manitoba
+2025,1,1361763,Manitoba
+2025,2,1363439,Manitoba
+2025,3,1365116,Manitoba
+2026,4,1374029,Manitoba
+2026,1,1368999,Manitoba
+2026,2,1370676,Manitoba
+2026,3,1372352,Manitoba
+2027,4,1381266,Manitoba
+2027,1,1376236,Manitoba
+2027,2,1377912,Manitoba
+2027,3,1379589,Manitoba
+2028,4,1388502,Manitoba
+2028,1,1383472,Manitoba
+2028,2,1385149,Manitoba
+2028,3,1386826,Manitoba
+2029,4,1395739,Manitoba
+2024,1,819493,New Brunswick
+2024,2,820562,New Brunswick
+2024,3,821631,New Brunswick
+2025,4,826107,New Brunswick
+2025,1,822900,New Brunswick
+2025,2,823969,New Brunswick
+2025,3,825038,New Brunswick
+2026,4,829514,New Brunswick
+2026,1,826307,New Brunswick
+2026,2,827376,New Brunswick
+2026,3,828445,New Brunswick
+2027,4,832921,New Brunswick
+2027,1,829714,New Brunswick
+2027,2,830783,New Brunswick
+2027,3,831852,New Brunswick
+2028,4,836328,New Brunswick
+2028,1,833121,New Brunswick
+2028,2,834190,New Brunswick
+2028,3,835259,New Brunswick
+2029,4,839735,New Brunswick
+2024,1,563006,Newfoundland and Labrador
+2024,2,564523,Newfoundland and Labrador
+2024,3,566040,Newfoundland and Labrador
+2025,4,568774,Newfoundland and Labrador
+2025,1,564222,Newfoundland and Labrador
+2025,2,565739,Newfoundland and Labrador
+2025,3,567256,Newfoundland and Labrador
+2026,4,569990,Newfoundland and Labrador
+2026,1,565438,Newfoundland and Labrador
+2026,2,566955,Newfoundland and Labrador
+2026,3,568473,Newfoundland and Labrador
+2027,4,571206,Newfoundland and Labrador
+2027,1,566654,Newfoundland and Labrador
+2027,2,568171,Newfoundland and Labrador
+2027,3,569689,Newfoundland and Labrador
+2028,4,572422,Newfoundland and Labrador
+2028,1,567870,Newfoundland and Labrador
+2028,2,569387,Newfoundland and Labrador
+2028,3,570905,Newfoundland and Labrador
+2029,4,573638,Newfoundland and Labrador
+2024,1,45467,Northwest Territories 
+2024,2,45500,Northwest Territories 
+2024,3,45534,Northwest Territories 
+2025,4,45734,Northwest Territories 
+2025,1,45634,Northwest Territories 
+2025,2,45667,Northwest Territories 
+2025,3,45701,Northwest Territories 
+2026,4,45901,Northwest Territories 
+2026,1,45801,Northwest Territories 
+2026,2,45834,Northwest Territories 
+2026,3,45868,Northwest Territories 
+2027,4,46068,Northwest Territories 
+2027,1,45968,Northwest Territories 
+2027,2,46002,Northwest Territories 
+2027,3,46035,Northwest Territories 
+2028,4,46236,Northwest Territories 
+2028,1,46135,Northwest Territories 
+2028,2,46169,Northwest Territories 
+2028,3,46202,Northwest Territories 
+2029,4,46403,Northwest Territories 
+2024,1,1023202,Nova Scotia
+2024,2,1024313,Nova Scotia
+2024,3,1025423,Nova Scotia
+2025,4,1030985,Nova Scotia
+2025,1,1027653,Nova Scotia
+2025,2,1028764,Nova Scotia
+2025,3,1029874,Nova Scotia
+2026,4,1035436,Nova Scotia
+2026,1,1032104,Nova Scotia
+2026,2,1033215,Nova Scotia
+2026,3,1034326,Nova Scotia
+2027,4,1039887,Nova Scotia
+2027,1,1036555,Nova Scotia
+2027,2,1037666,Nova Scotia
+2027,3,1038777,Nova Scotia
+2028,4,1044339,Nova Scotia
+2028,1,1041006,Nova Scotia
+2028,2,1042117,Nova Scotia
+2028,3,1043228,Nova Scotia
+2029,4,1048790,Nova Scotia
+2024,1,41274,Nunavut 
+2024,2,41441,Nunavut 
+2024,3,41608,Nunavut 
+2025,4,42360,Nunavut 
+2025,1,41859,Nunavut 
+2025,2,42026,Nunavut 
+2025,3,42193,Nunavut 
+2026,4,42945,Nunavut 
+2026,1,42444,Nunavut 
+2026,2,42611,Nunavut 
+2026,3,42778,Nunavut 
+2027,4,43530,Nunavut 
+2027,1,43029,Nunavut 
+2027,2,43196,Nunavut 
+2027,3,43363,Nunavut 
+2028,4,44115,Nunavut 
+2028,1,43614,Nunavut 
+2028,2,43781,Nunavut 
+2028,3,43948,Nunavut 
+2029,4,44700,Nunavut 
+2024,1,15100224,Ontario
+2024,2,15134396,Ontario
+2024,3,15168567,Ontario
+2025,4,15345601,Ontario
+2025,1,15243087,Ontario
+2025,2,15277258,Ontario
+2025,3,15311430,Ontario
+2026,4,15488464,Ontario
+2026,1,15385950,Ontario
+2026,2,15420121,Ontario
+2026,3,15454293,Ontario
+2027,4,15631327,Ontario
+2027,1,15528813,Ontario
+2027,2,15562984,Ontario
+2027,3,15597155,Ontario
+2028,4,15774189,Ontario
+2028,1,15671676,Ontario
+2028,2,15705847,Ontario
+2028,3,15740018,Ontario
+2029,4,15917052,Ontario
+2024,1,157295,Prince Edward Island
+2024,2,157398,Prince Edward Island
+2024,3,157502,Prince Edward Island
+2025,4,158436,Prince Edward Island
+2025,1,158126,Prince Edward Island
+2025,2,158230,Prince Edward Island
+2025,3,158333,Prince Edward Island
+2026,4,159268,Prince Edward Island
+2026,1,158958,Prince Edward Island
+2026,2,159061,Prince Edward Island
+2026,3,159164,Prince Edward Island
+2027,4,160099,Prince Edward Island
+2027,1,159789,Prince Edward Island
+2027,2,159892,Prince Edward Island
+2027,3,159996,Prince Edward Island
+2028,4,160930,Prince Edward Island
+2028,1,160620,Prince Edward Island
+2028,2,160724,Prince Edward Island
+2028,3,160827,Prince Edward Island
+2029,4,161762,Prince Edward Island
+2024,1,8747298,Quebec
+2024,2,8767882,Quebec
+2024,3,8788467,Quebec
+2025,4,8864598,Quebec
+2025,1,8802846,Quebec
+2025,2,8823430,Quebec
+2025,3,8844014,Quebec
+2026,4,8920146,Quebec
+2026,1,8858393,Quebec
+2026,2,8878977,Quebec
+2026,3,8899561,Quebec
+2027,4,8975693,Quebec
+2027,1,8913940,Quebec
+2027,2,8934525,Quebec
+2027,3,8955109,Quebec
+2028,4,9031240,Quebec
+2028,1,8969488,Quebec
+2028,2,8990072,Quebec
+2028,3,9010656,Quebec
+2029,4,9086788,Quebec
+2024,1,1129830,Saskatchewan
+2024,2,1131177,Saskatchewan
+2024,3,1132525,Saskatchewan
+2025,4,1137546,Saskatchewan
+2025,1,1133504,Saskatchewan
+2025,2,1134851,Saskatchewan
+2025,3,1136198,Saskatchewan
+2026,4,1141219,Saskatchewan
+2026,1,1137178,Saskatchewan
+2026,2,1138525,Saskatchewan
+2026,3,1139872,Saskatchewan
+2027,4,1144893,Saskatchewan
+2027,1,1140851,Saskatchewan
+2027,2,1142199,Saskatchewan
+2027,3,1143546,Saskatchewan
+2028,4,1148567,Saskatchewan
+2028,1,1144525,Saskatchewan
+2028,2,1145873,Saskatchewan
+2028,3,1147220,Saskatchewan
+2029,4,1152241,Saskatchewan
+2024,1,42091,Yukon
+2024,2,42194,Yukon
+2024,3,42297,Yukon
+2025,4,42850,Yukon
+2025,1,42541,Yukon
+2025,2,42644,Yukon
+2025,3,42747,Yukon
+2026,4,43300,Yukon
+2026,1,42990,Yukon
+2026,2,43094,Yukon
+2026,3,43197,Yukon
+2027,4,43749,Yukon
+2027,1,43440,Yukon
+2027,2,43543,Yukon
+2027,3,43646,Yukon
+2028,4,44199,Yukon
+2028,1,43890,Yukon
+2028,2,43993,Yukon
+2028,3,44096,Yukon
+2029,4,44649,Yukon
