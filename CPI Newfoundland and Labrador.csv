@@ -1,0 +1,690 @@
+﻿Products,Year,CPI
+All-items,1979,42
+All-items,1980,46.9
+All-items,1981,53.1
+All-items,1982,58.5
+All-items,1983,62.4
+All-items,1984,65.2
+All-items,1985,67.9
+All-items,1986,69.9
+All-items,1987,71.9
+All-items,1988,73.5
+All-items,1989,76.2
+All-items,1990,79.5
+All-items,1991,84.4
+All-items,1992,85.3
+All-items,1993,86.7
+All-items,1994,87.8
+All-items,1995,89
+All-items,1996,90.4
+All-items,1997,92.3
+All-items,1998,92.5
+All-items,1999,93.8
+All-items,2000,96.6
+All-items,2001,97.7
+All-items,2002,100
+All-items,2003,102.9
+All-items,2004,104.8
+All-items,2005,107.6
+All-items,2006,109.5
+All-items,2007,111.1
+All-items,2008,114.3
+All-items,2009,114.6
+All-items,2010,117.4
+All-items,2011,121.4
+All-items,2012,123.9
+All-items,2013,126
+All-items,2014,128.4
+All-items,2015,129
+All-items,2016,132.5
+All-items,2017,135.7
+All-items,2018,137.9
+All-items,2019,139.3
+All-items,2020,139.6
+All-items,2021,144.7
+All-items,2022,153.9
+All-items,2023,159
+,,
+Food ,1979,50.4
+Food ,1980,56.8
+Food ,1981,62.7
+Food ,1982,66.1
+Food ,1983,66.8
+Food ,1984,69.3
+Food ,1985,70.6
+Food ,1986,74
+Food ,1987,77
+Food ,1988,77.8
+Food ,1989,80.2
+Food ,1990,83
+Food ,1991,87.5
+Food ,1992,85.5
+Food ,1993,87.1
+Food ,1994,88.7
+Food ,1995,89.9
+Food ,1996,91.7
+Food ,1997,92.9
+Food ,1998,94
+Food ,1999,94.8
+Food ,2000,95.1
+Food ,2001,97.8
+Food ,2002,100
+Food ,2003,100.8
+Food ,2004,102.5
+Food ,2005,105
+Food ,2006,107.2
+Food ,2007,109.7
+Food ,2008,114.4
+Food ,2009,121.2
+Food ,2010,123.6
+Food ,2011,128.1
+Food ,2012,132.6
+Food ,2013,134.5
+Food ,2014,137.7
+Food ,2015,142.9
+Food ,2016,146.4
+Food ,2017,145
+Food ,2018,145.5
+Food ,2019,148.2
+Food ,2020,150.8
+Food ,2021,154.7
+Food ,2022,169
+Food ,2023,182.2
+,,
+Shelter ,1979,42.2
+Shelter ,1980,46.9
+Shelter ,1981,55.2
+Shelter ,1982,62.5
+Shelter ,1983,67.1
+Shelter ,1984,71.2
+Shelter ,1985,75.1
+Shelter ,1986,74.4
+Shelter ,1987,75.3
+Shelter ,1988,77
+Shelter ,1989,78.5
+Shelter ,1990,83.4
+Shelter ,1991,88.9
+Shelter ,1992,89.5
+Shelter ,1993,89.7
+Shelter ,1994,88.8
+Shelter ,1995,89.6
+Shelter ,1996,90.3
+Shelter ,1997,92.7
+Shelter ,1998,91
+Shelter ,1999,92.7
+Shelter ,2000,98.4
+Shelter ,2001,99.4
+Shelter ,2002,100
+Shelter ,2003,103.3
+Shelter ,2004,106.8
+Shelter ,2005,112.4
+Shelter ,2006,116.2
+Shelter ,2007,118.9
+Shelter ,2008,128.7
+Shelter ,2009,128.2
+Shelter ,2010,132.2
+Shelter ,2011,139.9
+Shelter ,2012,144.8
+Shelter ,2013,147.7
+Shelter ,2014,150
+Shelter ,2015,150.1
+Shelter ,2016,152.2
+Shelter ,2017,155.7
+Shelter ,2018,161
+Shelter ,2019,163.4
+Shelter ,2020,165.2
+Shelter ,2021,169.3
+Shelter ,2022,180.2
+Shelter ,2023,189.1
+,,
+"Household operations, furnishings and equipment",1979,54.4
+"Household operations, furnishings and equipment",1980,58.4
+"Household operations, furnishings and equipment",1981,64
+"Household operations, furnishings and equipment",1982,71
+"Household operations, furnishings and equipment",1983,74.1
+"Household operations, furnishings and equipment",1984,75.8
+"Household operations, furnishings and equipment",1985,78.3
+"Household operations, furnishings and equipment",1986,80.5
+"Household operations, furnishings and equipment",1987,82.3
+"Household operations, furnishings and equipment",1988,85.3
+"Household operations, furnishings and equipment",1989,87.2
+"Household operations, furnishings and equipment",1990,87.8
+"Household operations, furnishings and equipment",1991,90.3
+"Household operations, furnishings and equipment",1992,90.2
+"Household operations, furnishings and equipment",1993,90.5
+"Household operations, furnishings and equipment",1994,91.4
+"Household operations, furnishings and equipment",1995,92.2
+"Household operations, furnishings and equipment",1996,94.5
+"Household operations, furnishings and equipment",1997,94.6
+"Household operations, furnishings and equipment",1998,95.7
+"Household operations, furnishings and equipment",1999,96.5
+"Household operations, furnishings and equipment",2000,97.3
+"Household operations, furnishings and equipment",2001,98.8
+"Household operations, furnishings and equipment",2002,100
+"Household operations, furnishings and equipment",2003,99.8
+"Household operations, furnishings and equipment",2004,99.7
+"Household operations, furnishings and equipment",2005,100.7
+"Household operations, furnishings and equipment",2006,100.9
+"Household operations, furnishings and equipment",2007,100.8
+"Household operations, furnishings and equipment",2008,101.5
+"Household operations, furnishings and equipment",2009,105
+"Household operations, furnishings and equipment",2010,107
+"Household operations, furnishings and equipment",2011,107.7
+"Household operations, furnishings and equipment",2012,109.9
+"Household operations, furnishings and equipment",2013,112.6
+"Household operations, furnishings and equipment",2014,114.9
+"Household operations, furnishings and equipment",2015,117.1
+"Household operations, furnishings and equipment",2016,122.7
+"Household operations, furnishings and equipment",2017,124.3
+"Household operations, furnishings and equipment",2018,124.3
+"Household operations, furnishings and equipment",2019,122.5
+"Household operations, furnishings and equipment",2020,122.3
+"Household operations, furnishings and equipment",2021,120.3
+"Household operations, furnishings and equipment",2022,123.1
+"Household operations, furnishings and equipment",2023,124.6
+,,
+Clothing and footwear,1979,50.1
+Clothing and footwear,1980,55.5
+Clothing and footwear,1981,59.6
+Clothing and footwear,1982,62.8
+Clothing and footwear,1983,70.3
+Clothing and footwear,1984,71.9
+Clothing and footwear,1985,73.7
+Clothing and footwear,1986,75.2
+Clothing and footwear,1987,78
+Clothing and footwear,1988,80.8
+Clothing and footwear,1989,84.1
+Clothing and footwear,1990,87.1
+Clothing and footwear,1991,95.5
+Clothing and footwear,1992,97.8
+Clothing and footwear,1993,99.6
+Clothing and footwear,1994,100.4
+Clothing and footwear,1995,98.5
+Clothing and footwear,1996,97.9
+Clothing and footwear,1997,99.3
+Clothing and footwear,1998,99.9
+Clothing and footwear,1999,101.9
+Clothing and footwear,2000,101.1
+Clothing and footwear,2001,103.6
+Clothing and footwear,2002,100
+Clothing and footwear,2003,99.3
+Clothing and footwear,2004,99
+Clothing and footwear,2005,100.1
+Clothing and footwear,2006,99.8
+Clothing and footwear,2007,99
+Clothing and footwear,2008,97.3
+Clothing and footwear,2009,93.4
+Clothing and footwear,2010,93.7
+Clothing and footwear,2011,94.6
+Clothing and footwear,2012,91.4
+Clothing and footwear,2013,94.1
+Clothing and footwear,2014,94.9
+Clothing and footwear,2015,96.5
+Clothing and footwear,2016,95.2
+Clothing and footwear,2017,96.4
+Clothing and footwear,2018,97.4
+Clothing and footwear,2019,98
+Clothing and footwear,2020,95
+Clothing and footwear,2021,94.2
+Clothing and footwear,2022,95
+Clothing and footwear,2023,94.4
+,,
+Transportation,1979,34.2
+Transportation,1980,38.9
+Transportation,1981,45.6
+Transportation,1982,51
+Transportation,1983,54.3
+Transportation,1984,56.5
+Transportation,1985,59.5
+Transportation,1986,61.5
+Transportation,1987,62.2
+Transportation,1988,62.5
+Transportation,1989,65.5
+Transportation,1990,69.2
+Transportation,1991,71.1
+Transportation,1992,72.6
+Transportation,1993,74.2
+Transportation,1994,79
+Transportation,1995,82.9
+Transportation,1996,85.4
+Transportation,1997,88.7
+Transportation,1998,88.1
+Transportation,1999,89.6
+Transportation,2000,95.4
+Transportation,2001,94.1
+Transportation,2002,100
+Transportation,2003,107.8
+Transportation,2004,110.9
+Transportation,2005,114.6
+Transportation,2006,117.1
+Transportation,2007,118.4
+Transportation,2008,119.2
+Transportation,2009,111.3
+Transportation,2010,115.4
+Transportation,2011,121.8
+Transportation,2012,124.7
+Transportation,2013,126.7
+Transportation,2014,129
+Transportation,2015,124.1
+Transportation,2016,129.5
+Transportation,2017,136.7
+Transportation,2018,141.3
+Transportation,2019,144
+Transportation,2020,141.6
+Transportation,2021,155.9
+Transportation,2022,173.2
+Transportation,2023,172.7
+,,
+Gasoline,1979,33.2
+Gasoline,1980,39.3
+Gasoline,1981,52
+Gasoline,1982,62.1
+Gasoline,1983,68.5
+Gasoline,1984,71.9
+Gasoline,1985,77.6
+Gasoline,1986,71.7
+Gasoline,1987,69.7
+Gasoline,1988,68.3
+Gasoline,1989,71.1
+Gasoline,1990,80.1
+Gasoline,1991,83.2
+Gasoline,1992,79.5
+Gasoline,1993,74.9
+Gasoline,1994,76.8
+Gasoline,1995,82.4
+Gasoline,1996,81.3
+Gasoline,1997,88.5
+Gasoline,1998,84.9
+Gasoline,1999,86.7
+Gasoline,2000,107.6
+Gasoline,2001,103
+Gasoline,2002,100
+Gasoline,2003,106.8
+Gasoline,2004,118
+Gasoline,2005,131.3
+Gasoline,2006,137.9
+Gasoline,2007,142.7
+Gasoline,2008,158.7
+Gasoline,2009,131.8
+Gasoline,2010,142.5
+Gasoline,2011,166.1
+Gasoline,2012,171.2
+Gasoline,2013,169
+Gasoline,2014,170.5
+Gasoline,2015,143.1
+Gasoline,2016,149.2
+Gasoline,2017,162.9
+Gasoline,2018,166.5
+Gasoline,2019,159.1
+Gasoline,2020,138.7
+Gasoline,2021,189.5
+Gasoline,2022,238.5
+Gasoline,2023,222.2
+,,
+Health and personal care,1979,46.4
+Health and personal care,1980,51.7
+Health and personal care,1981,56.4
+Health and personal care,1982,60.6
+Health and personal care,1983,66.2
+Health and personal care,1984,68.8
+Health and personal care,1985,71.2
+Health and personal care,1986,74
+Health and personal care,1987,77.7
+Health and personal care,1988,80.2
+Health and personal care,1989,83
+Health and personal care,1990,85.9
+Health and personal care,1991,92.6
+Health and personal care,1992,93.9
+Health and personal care,1993,95.2
+Health and personal care,1994,94.6
+Health and personal care,1995,92.9
+Health and personal care,1996,92.2
+Health and personal care,1997,92.8
+Health and personal care,1998,94.5
+Health and personal care,1999,95.8
+Health and personal care,2000,97.4
+Health and personal care,2001,99.2
+Health and personal care,2002,100
+Health and personal care,2003,101.2
+Health and personal care,2004,101.6
+Health and personal care,2005,102.1
+Health and personal care,2006,103
+Health and personal care,2007,103.7
+Health and personal care,2008,105.9
+Health and personal care,2009,111
+Health and personal care,2010,112.7
+Health and personal care,2011,114.6
+Health and personal care,2012,115.8
+Health and personal care,2013,113.7
+Health and personal care,2014,113.4
+Health and personal care,2015,114.5
+Health and personal care,2016,117
+Health and personal care,2017,119.6
+Health and personal care,2018,120.2
+Health and personal care,2019,121.6
+Health and personal care,2020,124.5
+Health and personal care,2021,126.5
+Health and personal care,2022,128.9
+Health and personal care,2023,138.2
+,,
+"Recreation, education and reading",1979,40.7
+"Recreation, education and reading",1980,44.1
+"Recreation, education and reading",1981,48.4
+"Recreation, education and reading",1982,52
+"Recreation, education and reading",1983,55.2
+"Recreation, education and reading",1984,57.5
+"Recreation, education and reading",1985,59.8
+"Recreation, education and reading",1986,62.3
+"Recreation, education and reading",1987,65.8
+"Recreation, education and reading",1988,69
+"Recreation, education and reading",1989,72
+"Recreation, education and reading",1990,74.7
+"Recreation, education and reading",1991,79.2
+"Recreation, education and reading",1992,81.1
+"Recreation, education and reading",1993,82.6
+"Recreation, education and reading",1994,85.8
+"Recreation, education and reading",1995,88.2
+"Recreation, education and reading",1996,90.3
+"Recreation, education and reading",1997,93.5
+"Recreation, education and reading",1998,95.5
+"Recreation, education and reading",1999,97.2
+"Recreation, education and reading",2000,98.4
+"Recreation, education and reading",2001,99.2
+"Recreation, education and reading",2002,100
+"Recreation, education and reading",2003,99.9
+"Recreation, education and reading",2004,99.8
+"Recreation, education and reading",2005,99.6
+"Recreation, education and reading",2006,99.2
+"Recreation, education and reading",2007,100
+"Recreation, education and reading",2008,100.4
+"Recreation, education and reading",2009,101.6
+"Recreation, education and reading",2010,103.4
+"Recreation, education and reading",2011,103.6
+"Recreation, education and reading",2012,104.1
+"Recreation, education and reading",2013,103.6
+"Recreation, education and reading",2014,104.8
+"Recreation, education and reading",2015,105.6
+"Recreation, education and reading",2016,108
+"Recreation, education and reading",2017,111.5
+"Recreation, education and reading",2018,110.7
+"Recreation, education and reading",2019,110.5
+"Recreation, education and reading",2020,110.2
+"Recreation, education and reading",2021,112.9
+"Recreation, education and reading",2022,116.8
+"Recreation, education and reading",2023,118.7
+,,
+"Alcoholic beverages, tobacco products and recreational cannabis",1979,24.9
+"Alcoholic beverages, tobacco products and recreational cannabis",1980,28.4
+"Alcoholic beverages, tobacco products and recreational cannabis",1981,32.6
+"Alcoholic beverages, tobacco products and recreational cannabis",1982,38
+"Alcoholic beverages, tobacco products and recreational cannabis",1983,45.5
+"Alcoholic beverages, tobacco products and recreational cannabis",1984,49
+"Alcoholic beverages, tobacco products and recreational cannabis",1985,52.3
+"Alcoholic beverages, tobacco products and recreational cannabis",1986,56.9
+"Alcoholic beverages, tobacco products and recreational cannabis",1987,58.9
+"Alcoholic beverages, tobacco products and recreational cannabis",1988,61.3
+"Alcoholic beverages, tobacco products and recreational cannabis",1989,65.8
+"Alcoholic beverages, tobacco products and recreational cannabis",1990,69.3
+"Alcoholic beverages, tobacco products and recreational cannabis",1991,78.4
+"Alcoholic beverages, tobacco products and recreational cannabis",1992,82.4
+"Alcoholic beverages, tobacco products and recreational cannabis",1993,87
+"Alcoholic beverages, tobacco products and recreational cannabis",1994,84
+"Alcoholic beverages, tobacco products and recreational cannabis",1995,84.1
+"Alcoholic beverages, tobacco products and recreational cannabis",1996,84.5
+"Alcoholic beverages, tobacco products and recreational cannabis",1997,84.6
+"Alcoholic beverages, tobacco products and recreational cannabis",1998,85.5
+"Alcoholic beverages, tobacco products and recreational cannabis",1999,85.9
+"Alcoholic beverages, tobacco products and recreational cannabis",2000,87.2
+"Alcoholic beverages, tobacco products and recreational cannabis",2001,90
+"Alcoholic beverages, tobacco products and recreational cannabis",2002,100
+"Alcoholic beverages, tobacco products and recreational cannabis",2003,110.6
+"Alcoholic beverages, tobacco products and recreational cannabis",2004,116.5
+"Alcoholic beverages, tobacco products and recreational cannabis",2005,120.4
+"Alcoholic beverages, tobacco products and recreational cannabis",2006,125.3
+"Alcoholic beverages, tobacco products and recreational cannabis",2007,129.5
+"Alcoholic beverages, tobacco products and recreational cannabis",2008,130.4
+"Alcoholic beverages, tobacco products and recreational cannabis",2009,132.3
+"Alcoholic beverages, tobacco products and recreational cannabis",2010,134.7
+"Alcoholic beverages, tobacco products and recreational cannabis",2011,137.8
+"Alcoholic beverages, tobacco products and recreational cannabis",2012,139.1
+"Alcoholic beverages, tobacco products and recreational cannabis",2013,142.8
+"Alcoholic beverages, tobacco products and recreational cannabis",2014,153.1
+"Alcoholic beverages, tobacco products and recreational cannabis",2015,158.7
+"Alcoholic beverages, tobacco products and recreational cannabis",2016,166.2
+"Alcoholic beverages, tobacco products and recreational cannabis",2017,172
+"Alcoholic beverages, tobacco products and recreational cannabis",2018,178.1
+"Alcoholic beverages, tobacco products and recreational cannabis",2019,182.7
+"Alcoholic beverages, tobacco products and recreational cannabis",2020,189.9
+"Alcoholic beverages, tobacco products and recreational cannabis",2021,206.5
+"Alcoholic beverages, tobacco products and recreational cannabis",2022,214.2
+"Alcoholic beverages, tobacco products and recreational cannabis",2023,223.4
+,,
+All-items excluding food and energy ,1979,41.6
+All-items excluding food and energy ,1980,45.9
+All-items excluding food and energy ,1981,50.9
+All-items excluding food and energy ,1982,55.9
+All-items excluding food and energy ,1983,60.5
+All-items excluding food and energy ,1984,63.1
+All-items excluding food and energy ,1985,65.5
+All-items excluding food and energy ,1986,68.3
+All-items excluding food and energy ,1987,70.6
+All-items excluding food and energy ,1988,72.9
+All-items excluding food and energy ,1989,76
+All-items excluding food and energy ,1990,78.8
+All-items excluding food and energy ,1991,83.7
+All-items excluding food and energy ,1992,85.5
+All-items excluding food and energy ,1993,87.4
+All-items excluding food and energy ,1994,88.5
+All-items excluding food and energy ,1995,89.7
+All-items excluding food and energy ,1996,91
+All-items excluding food and energy ,1997,92.2
+All-items excluding food and energy ,1998,93
+All-items excluding food and energy ,1999,94.3
+All-items excluding food and energy ,2000,95.4
+All-items excluding food and energy ,2001,96.8
+All-items excluding food and energy ,2002,100
+All-items excluding food and energy ,2003,103
+All-items excluding food and energy ,2004,103.7
+All-items excluding food and energy ,2005,104.8
+All-items excluding food and energy ,2006,105.9
+All-items excluding food and energy ,2007,107
+All-items excluding food and energy ,2008,108.1
+All-items excluding food and energy ,2009,109.7
+All-items excluding food and energy ,2010,111.7
+All-items excluding food and energy ,2011,113.4
+All-items excluding food and energy ,2012,114.9
+All-items excluding food and energy ,2013,117.2
+All-items excluding food and energy ,2014,119.5
+All-items excluding food and energy ,2015,121.4
+All-items excluding food and energy ,2016,125.2
+All-items excluding food and energy ,2017,128.2
+All-items excluding food and energy ,2018,129.8
+All-items excluding food and energy ,2019,131.2
+All-items excluding food and energy ,2020,132.3
+All-items excluding food and energy ,2021,134.6
+All-items excluding food and energy ,2022,138.8
+All-items excluding food and energy ,2023,143.3
+,,
+All-items excluding energy ,1979,43.6
+All-items excluding energy ,1980,48.3
+All-items excluding energy ,1981,53.6
+All-items excluding energy ,1982,58.2
+All-items excluding energy ,1983,61.9
+All-items excluding energy ,1984,64.5
+All-items excluding energy ,1985,66.6
+All-items excluding energy ,1986,69.4
+All-items excluding energy ,1987,71.9
+All-items excluding energy ,1988,73.9
+All-items excluding energy ,1989,76.9
+All-items excluding energy ,1990,79.6
+All-items excluding energy ,1991,84.4
+All-items excluding energy ,1992,85.5
+All-items excluding energy ,1993,87.3
+All-items excluding energy ,1994,88.5
+All-items excluding energy ,1995,89.8
+All-items excluding energy ,1996,91.2
+All-items excluding energy ,1997,92.4
+All-items excluding energy ,1998,93.2
+All-items excluding energy ,1999,94.4
+All-items excluding energy ,2000,95.3
+All-items excluding energy ,2001,97
+All-items excluding energy ,2002,100
+All-items excluding energy ,2003,102.5
+All-items excluding energy ,2004,103.4
+All-items excluding energy ,2005,104.8
+All-items excluding energy ,2006,106.1
+All-items excluding energy ,2007,107.5
+All-items excluding energy ,2008,109.3
+All-items excluding energy ,2009,112
+All-items excluding energy ,2010,114.1
+All-items excluding energy ,2011,116.4
+All-items excluding energy ,2012,118.4
+All-items excluding energy ,2013,120.6
+All-items excluding energy ,2014,123.1
+All-items excluding energy ,2015,125.5
+All-items excluding energy ,2016,129.3
+All-items excluding energy ,2017,131.6
+All-items excluding energy ,2018,133
+All-items excluding energy ,2019,134.6
+All-items excluding energy ,2020,136.1
+All-items excluding energy ,2021,138.6
+All-items excluding energy ,2022,144.6
+All-items excluding energy ,2023,150.7
+,,
+Energy ,1979,33.8
+Energy ,1980,39.6
+Energy ,1981,52.1
+Energy ,1982,62
+Energy ,1983,67.9
+Energy ,1984,72
+Energy ,1985,79
+Energy ,1986,73.4
+Energy ,1987,71.1
+Energy ,1988,70.2
+Energy ,1989,70.1
+Energy ,1990,78.5
+Energy ,1991,84.6
+Energy ,1992,83.6
+Energy ,1993,82
+Energy ,1994,81.4
+Energy ,1995,83.5
+Energy ,1996,84.4
+Energy ,1997,91.6
+Energy ,1998,86.9
+Energy ,1999,89.3
+Energy ,2000,105.7
+Energy ,2001,102.4
+Energy ,2002,100
+Energy ,2003,106
+Energy ,2004,115.8
+Energy ,2005,129.5
+Energy ,2006,136.6
+Energy ,2007,139.6
+Energy ,2008,154.8
+Energy ,2009,133.9
+Energy ,2010,142.9
+Energy ,2011,161.7
+Energy ,2012,169.1
+Energy ,2013,169.4
+Energy ,2014,170.6
+Energy ,2015,152.7
+Energy ,2016,154.1
+Energy ,2017,165.2
+Energy ,2018,176
+Energy ,2019,174.7
+Energy ,2020,162.9
+Energy ,2021,195.2
+Energy ,2022,238.3
+Energy ,2023,228.3
+,,
+Goods ,1979,44.6
+Goods ,1980,50.2
+Goods ,1981,57.2
+Goods ,1982,62.6
+Goods ,1983,66.8
+Goods ,1984,69.7
+Goods ,1985,72.8
+Goods ,1986,74.6
+Goods ,1987,76.4
+Goods ,1988,77.9
+Goods ,1989,80.8
+Goods ,1990,84.2
+Goods ,1991,89.1
+Goods ,1992,89.7
+Goods ,1993,91.1
+Goods ,1994,91.7
+Goods ,1995,92.4
+Goods ,1996,93.7
+Goods ,1997,95.3
+Goods ,1998,94.4
+Goods ,1999,95.6
+Goods ,2000,99.1
+Goods ,2001,99.4
+Goods ,2002,100
+Goods ,2003,101.6
+Goods ,2004,103.8
+Goods ,2005,107.3
+Goods ,2006,109.6
+Goods ,2007,110.6
+Goods ,2008,112.9
+Goods ,2009,111
+Goods ,2010,113.4
+Goods ,2011,117.6
+Goods ,2012,119.5
+Goods ,2013,120.6
+Goods ,2014,122.5
+Goods ,2015,121.9
+Goods ,2016,124.5
+Goods ,2017,127
+Goods ,2018,129.1
+Goods ,2019,130.3
+Goods ,2020,129.8
+Goods ,2021,138.1
+Goods ,2022,150.5
+Goods ,2023,154.6
+,,
+Services,1979,38.1
+Services,1980,41.8
+Services,1981,46.9
+Services,1982,52.2
+Services,1983,55.9
+Services,1984,58.4
+Services,1985,60.5
+Services,1986,62.8
+Services,1987,65.1
+Services,1988,67
+Services,1989,69.3
+Services,1990,72.5
+Services,1991,77.4
+Services,1992,78.6
+Services,1993,80.1
+Services,1994,81.9
+Services,1995,83.8
+Services,1996,85.5
+Services,1997,87.7
+Services,1998,89.7
+Services,1999,91.2
+Services,2000,93.1
+Services,2001,95.2
+Services,2002,100
+Services,2003,104.7
+Services,2004,106.2
+Services,2005,107.9
+Services,2006,109.5
+Services,2007,111.8
+Services,2008,116.3
+Services,2009,120
+Services,2010,123.2
+Services,2011,126.9
+Services,2012,130.5
+Services,2013,134.2
+Services,2014,137.3
+Services,2015,139.8
+Services,2016,144.7
+Services,2017,149
+Services,2018,151.6
+Services,2019,152.9
+Services,2020,154.3
+Services,2021,155
+Services,2022,158.6
+Services,2023,165
